@@ -1,10 +1,16 @@
-# Feedback
-A place to submit tutorial requests.
+## ABOUT
+A place to submit new/update MCreator tutorial requests.
 
-## Give Feedback
+## MAKE A REQUEST
 > I won't be able to make every request posted or all the features due to limitations and time restrictions, however feel free to share your ideas by opening a request.
-* [Make a Request](https://github.com/MCreator-Examples/Feedback/issues/new/choose)
 
-## React with +1 or -1
-> +1 Reactions will upvote the request priority, -1 Reactions will decrease the request priority. You can see all requests on the Issues pages.
-* [All Requests](https://github.com/MCreator-Examples/Feedback/issues)
+Make your MCreator tutorial/series request [here](https://github.com/MCreator-Examples/Feedback/issues/new/choose).
+
+### OPTIONS
+* New Tutorial - Request a new MCreator Tutorial.
+* New Series - Request a new MCreator Tutorial Series.
+* Update Tutorial - Request an update to an existing MCreator tutorial.
+* Update Series - Request an update to an existing MCreator tutorial series.
+
+## ACTIVE REQUESTS
+View active requests [here](https://github.com/orgs/MCreator-Examples/projects/1)
