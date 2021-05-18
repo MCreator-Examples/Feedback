@@ -1,16 +1,19 @@
-## ABOUT
-A place to submit new/update MCreator tutorial requests.
+# MCREATOR EXAMPLES FEEDBACK
+Welcome to the MCreator Examples Feedback area. Here you can find a list of projects and thier diownload pages, a list of requests that are planned, and also a way to request your own ideas for mcreator examples and tutorials. 
 
-## MAKE A REQUEST
-> I won't be able to make every request posted or all the features due to limitations and time restrictions, however feel free to share your ideas by opening a request.
+## FOLLOW THE STEPS BELOW TO GET STARTED
 
-Make your MCreator tutorial/series request [here](https://github.com/MCreator-Examples/Feedback/issues/new/choose).
+### 1. CHECK OUR PROJECT INDEX PAGE
+We may have already made the project check [this page](https://github.com/MCreator-Examples/Feedback/wiki/List-Of-Projects) for a list of projects.
 
-### OPTIONS
-* New Tutorial - Request a new MCreator Tutorial.
-* New Series - Request a new MCreator Tutorial Series.
-* Update Tutorial - Request an update to an existing MCreator tutorial.
-* Update Series - Request an update to an existing MCreator tutorial series.
+### 2. CHECK THE ACTIVE REQUEST LIST
+If it's not in the repository list check the list of all active requests [here](https://github.com/orgs/MCreator-Examples/projects/1)
 
-## ACTIVE REQUESTS
-View active requests [here](https://github.com/orgs/MCreator-Examples/projects/1)
+### 3. MAKE NEW REQUESTS
+Make a new request [here](https://github.com/MCreator-Examples/Feedback/issues/new/choose)
+
+#### OPTIONS FOR A REQUEST ARE BELOW
+* New Tutorial
+* New Series
+* Update Tutorial
+* Update Series
