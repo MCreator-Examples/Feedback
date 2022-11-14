@@ -1,6 +1,6 @@
 name: Tutorial Request
 description: Suggest a tutorial for a Minecraft Forge project.
-labels: ForgeRequest
+labels: Tutorial-Request
 body:
  - type: textarea
    attributes:
