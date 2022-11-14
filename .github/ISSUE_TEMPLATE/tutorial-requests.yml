@@ -35,5 +35,5 @@ body:
     options:
      - label: "I have checked NorthWestTrees Gaming YouTube Channel <a href='https://www.youtube.com/@NorthWestTreesGaming' target='_blank'> MCreator Playlists</a> and it has not been made yet."
        required: true
-     - label: "I have checked MCE <a href='https://github.com/orgs/MCreator-Examples/projects/7' target='_blank'>Organaization Projects</a> and the idea has not been suggested yet.</a>"
+     - label: "I have checked MCE <a href='https://github.com/orgs/MCreator-Examples/projects/7/views/1?groupedBy%5BcolumnId%5D=Status' target='_blank'>Organaization Projects</a> and the idea has not been suggested yet.</a>"
        required: true
