@@ -1,19 +1,18 @@
 # MCREATOR EXAMPLES FEEDBACK
-Welcome to the MCreator Examples Feedback area. Here you can find a list of projects and thier diownload pages, a list of requests that are planned, and also a way to request your own ideas for mcreator examples and tutorials. 
+This repository is use for sharing your ideas for possible future tutorials.
+You can find a data base of all existing ideas on [This Page]().
 
-## FOLLOW THE STEPS BELOW TO GET STARTED
+## BEFORE YOU PROVIDE FEEDBACK
+There are some steps you should preform before you make a new thread.  
+This helps keep duplicates down saving me more time and hastle to sort issues.
 
-### 1. CHECK OUR PROJECT INDEX PAGE
-We may have already made the project check [this page](https://github.com/MCreator-Examples/Feedback/wiki/List-Of-Projects) for a list of projects.
-
-### 2. CHECK THE ACTIVE REQUEST LIST
-If it's not in the repository list check the list of all active requests [here](https://github.com/orgs/MCreator-Examples/projects/1)
-
-### 3. MAKE NEW REQUESTS
-Make a new request [here](https://github.com/MCreator-Examples/Feedback/issues/new/choose)
-
-#### OPTIONS FOR A REQUEST ARE BELOW
-* New Tutorial
-* New Series
-* Update Tutorial
-* Update Series
+### STEPS
+1. Check NorthWestTrees Gaming [MCreator Playlists](https://www.youtube.com/c/NorthWestTreesGaming/playlists?view=50&shelf_id=8) to see if the tutorial has already been made.
+    - If the tutorial has already been made and the version of MCreator is outdated.
+      - Test the provided workspace in the project download to see if it is in working order for your MCreator/Minecraft version.
+        - If the project workspace provided in the download is is not working like the tutorial then move to Step 2.
+2. Check [this page](https://github.com/orgs/MCreator-Examples/projects/7/views/1?groupedBy%5BcolumnId%5D=Status&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title) if the suggestion has already been suggested.
+    - If the issue is closed
+      - Check to see why the issue was closed, most of the time I leave a comment.
+    - If the issue is open.
+      - Leave a comment with any aditional suggestion that are not already listed.
