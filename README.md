@@ -16,3 +16,4 @@ This helps keep duplicates down saving me more time and hastle to sort issues.
       - Check to see why the issue was closed, most of the time I leave a comment.
     - If the issue is open.
       - Leave a comment with any aditional suggestion that are not already listed.
+3. Open an [new request](https://github.com/MCreator-Examples/Feedback/issues/new/choose)
