@@ -1,5 +1,6 @@
 name: Tutorial Request
 description: Suggest a tutorial for a Minecraft Forge project.
+assignees: "northwesttreesgaming"
 labels: Tutorial-Request
 body:
  - type: textarea
