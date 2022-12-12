@@ -8,18 +8,18 @@ These tutorials will be remade and migrated when I have time.
 
 ***
 
-# WHERE TO FIND PROJECT WORKSPACES
+## WHERE TO FIND PROJECT WORKSPACES
 You can find project workspace over on the `projects repository` on the [discussions tab](https://github.com/MCreator-Examples/Projects/discussions).
 
 ***
 
-# WHAT IS THE REPOSITORY FOR?
+## WHAT IS THE REPOSITORY FOR?
 - A place for my community to `report broken example workspace` that I have made.
 - A place for my community to `suggest new tutorial ideas` or `expand existing ones`.
 
 *** 
 
-# BEFORE YOU PROVIDE A ISSUE OR SUGGESTION
+## BEFORE YOU PROVIDE A ISSUE OR SUGGESTION
 There are some steps you should preform before you make a new thread.  
 This helps keep duplicates down saving me more time and hastle to sort issues.
 
