@@ -2,14 +2,15 @@ name: Tutorial Update
 description: Request a tutorial to be updated.
 labels: "Tutorial-Update, Submitted"
 body:
- - type: checkboxes
+ - type: dropdown
    attributes:
-    label: Update reason
-    options:
-     - label: New features should be added (only use if you have an suggestion in the Reason to update for a feature or improvement).
-       required: false
-     - label: Workspace no-longer works or has issues (Provide information of the issue in Reason to update section.).
-       required: false
+     label: Reason to update the tutorial.
+     options:
+      - The tutorial has an issue.
+      - New feature for the tutorial.
+      - Both.
+  validations:
+    required: true
  - type: textarea
    attributes:
     label: Reason to update
