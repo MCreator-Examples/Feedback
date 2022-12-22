@@ -28,7 +28,7 @@ body:
       Drag and drop images or files onto this box 
       or provide links using \[URL Name](URL PATH)
    validations:
-     required: true
+     required: false
  - type: checkboxes
    attributes:
     label: Feature Request tracker rule checks (please read carefully)
