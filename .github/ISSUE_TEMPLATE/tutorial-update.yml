@@ -21,7 +21,7 @@ body:
    attributes:
     label: Tutorial URL
     description: Provide the link to the existing tutorial on my channel.
-    placeholder: Eg: "https://youtu.be/rNR_syfbu9E"
+    placeholder: YouTube video URL
     validations:
     required: true
  - type: textarea
