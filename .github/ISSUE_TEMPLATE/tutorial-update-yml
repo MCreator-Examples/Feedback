@@ -1,5 +1,5 @@
-name: Tutorial Request
-description: Suggest a tutorial for a Minecraft Forge project.
+name: Tutorial Update
+description: Request a tutorial to be updated.
 labels: "Tutorial-Update, Submitted"
 body:
  - type: checkboxes
