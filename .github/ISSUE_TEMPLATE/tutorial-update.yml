@@ -6,9 +6,9 @@ body:
    attributes:
     label: Update reason
     options:
-     - label: New features should be added "(only use if you have an suggestion in the Reason to update for a feature or improvement)".
+     - label: New features should be added (only use if you have an suggestion in the Reason to update for a feature or improvement).
        required: false
-     - label: Workspace no-longer works or has issues "(Provide information of the issue in Reason to update section.)"
+     - label: Workspace no-longer works or has issues (Provide information of the issue in Reason to update section.).
        required: false
  - type: textarea
    attributes:
