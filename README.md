@@ -5,16 +5,13 @@ This helps keep duplicates down saving me more time and hastle to sort issues.
 
 ## GETTING STARTED
 ### STEP 1 - Checking if the tutorial has been done before.
-To know if the tutorial has been made before check my MCreator playlists on my channel.  
-This can let you check if the tutorial still works or if you need to open a update tutorial suggestion instead.
+To know if the tutorial has been made before check my MCreator playlists on my channel. This can let you check if the tutorial still works or if you need to open a update tutorial suggestion instead.
 - [MCreator Playlists](https://www.youtube.com/@NorthWestTreesGaming/playlists?view=50&sort=dd&shelf_id=6)
 
 ***
 
 ### STEP 2 - Check if the suggestion has already been added.
-To lower the work for me to manage duplicate suggestions make sure you check closed issues and issues still open.  
-If the issue is closed most likely I have left a reason why its been closed or linked to the tutorial I made when I closed it.  
-If the tutorial is outdated or broken you may just check if the suggestion is open.  
+To lower the work for me to manage duplicate suggestions make sure you check closed issues and issues still open. If the issue is closed most likely I have left a reason why its been closed or linked to the tutorial I made when I closed it. If the tutorial is outdated or broken you may just check if the suggestion is open.  
 - [Open Suggestions](https://github.com/MCreator-Examples/Feedback/issues?q=is%3Aopen)
 - [Closed Suggestions](https://github.com/MCreator-Examples/Feedback/issues?q=is%3Aclosed)
 
