@@ -9,7 +9,7 @@ Search my channel to check to see if the tutorial has already been made also sea
 Suggest something for the building series strictly but for building ideas using MCreator.  
 ``Not Currently Active``
 
-## Data Pack Project Suggestion 
+## 🟨 Data Pack Project Suggestion 
 Suggest something for the data pack tutorial series, you can suggest something for me to try to make a template for.  
 ``Currently Active``
 
