@@ -21,6 +21,6 @@ Suggest something for the advanced feature tutorials series, things like new mec
 Suggest something for me to work on for my MCreator Lore series.  
 ``Currently Active``
 
-## Procedure Project Suggestion
+## 🟪 Procedure Project Suggestion
 This is used for procedure templates, things that may be advanced to create but could use a procedure template to make it easier.  
 ``Currently Active``
