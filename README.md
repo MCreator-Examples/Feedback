@@ -17,7 +17,7 @@ Suggest something for the data pack tutorial series, you can suggest something f
 Suggest something for the advanced feature tutorials series, things like new mechanics or systems that may require a bunch of script.  
 ``Currently Active``
 
-## MCreator Lore Series Suggestion
+## 🟦 MCreator Lore Series Suggestion
 Suggest something for me to work on for my MCreator Lore series.  
 ``Currently Active``
 
