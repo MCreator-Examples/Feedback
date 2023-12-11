@@ -13,7 +13,7 @@ Suggest something for the building series strictly but for building ideas using 
 Suggest something for the data pack tutorial series, you can suggest something for me to try to make a template for.  
 ``Currently Active``
 
-## Feature Project Suggestion
+## 🟩 Feature Project Suggestion
 Suggest something for the advanced feature tutorials series, things like new mechanics or systems that may require a bunch of script.  
 ``Currently Active``
 
