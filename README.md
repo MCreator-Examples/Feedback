@@ -5,7 +5,7 @@ This repository is for tutorial requests for project files in [This Repository](
 Search my channel to check to see if the tutorial has already been made also search this repository using filters and keywords for any open or closed issues. This helps keep doubles down and makes less work for me to go through when I need to look for a new idea for an advanced tutorial.
 
 # SELECT A TEMPLATE
-## Building Project Suggestion
+## 🟧 Building Project Suggestion
 Suggest something for the building series strictly but for building ideas using MCreator.  
 ``Not Currently Active``
 
