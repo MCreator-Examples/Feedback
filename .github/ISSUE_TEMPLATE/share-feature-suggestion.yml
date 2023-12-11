@@ -1,11 +1,12 @@
-name: Share Feature Suggestion
-description: Suggest something for the advanced tutorial series.
+name: Share Feature Project Suggestion
+description: Suggest something for the Advanced Tutorial series.
 labels: "Feature Project"
 body:
  - type: textarea
    attributes:
     label: Description
-    description: General information about your tutorial request.
-    placeholder: Describe what the tutorial would be for.
+    description: Provide information about your suggestion. The more details the better.
+    placeholder: Describe what the suggestion is about.
    validations:
     required: true
+
