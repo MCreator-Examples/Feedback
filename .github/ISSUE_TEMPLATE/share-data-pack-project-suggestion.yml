@@ -1,6 +1,6 @@
-name: 🟧 Share Building Project Suggestion
-description: Suggest something for the MCreator building series.
-labels: "Building Project"
+name: 🟨 Share Data Pack Project Suggestion
+description: Suggest something for the Data Pack series.
+labels: "Data Pack"
 body:
  - type: textarea
    attributes:
