@@ -3,6 +3,8 @@ This repository is for tutorial requests for project files in [This Repository](
 
 # SEARCH BEFORE YOU POST
 Search my channel to check to see if the tutorial has already been made also search this repository using filters and keywords for any open or closed issues. This helps keep doubles down and makes less work for me to go through when I need to look for a new idea for an advanced tutorial.
+> ### 1. Use the search bar here to [Search GitHub](https://github.com/MCreator-Examples/Feedback/issues?q=a)
+> ### 2. Use the channel search bar to [Search My YouTube Channel](https://www.youtube.com/channel/UC8XYkALuEvGlKhza5Uyb7uQ)
 
 # SELECT A TEMPLATE
 > ### You can [select a template here](https://github.com/MCreator-Examples/Feedback/issues/new/choose)
