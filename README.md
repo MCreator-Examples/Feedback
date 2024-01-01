@@ -18,13 +18,9 @@ Suggest something for the data pack tutorial series, you can suggest something f
 ``Currently Active``
 
 ## 🟩 Feature Project Suggestion
-Suggest something for the advanced feature tutorials series, things like new mechanics or systems that may require a bunch of script.  
+Suggest something for the advanced feature tutorials series, things like new mechanics or systems that may require a bunch of scripts.  
 ``Currently Active``
 
-## 🟦 MCreator Lore Series Suggestion
-Suggest something for me to work on for my MCreator Lore series.  
-``Currently Active``
-
-## 🟪 Procedure Project Suggestion
+## 🟦 Procedure Project Suggestion
 This is used for procedure templates, things that may be advanced to create but could use a procedure template to make it easier.  
 ``Currently Active``
